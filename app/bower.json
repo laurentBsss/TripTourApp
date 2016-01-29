@@ -1,0 +1,28 @@
+{
+  "name": "tripTour",
+  "description": "A little exemple of my work on angular.js",
+  "main": "app.js",
+  "authors": [
+    "laurentBsss"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "angular",
+    "bower",
+    "trip",
+    "travel"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "~1.4.9",
+    "angular-route": "~1.4.9"
+  }
+}
