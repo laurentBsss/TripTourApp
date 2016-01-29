@@ -1,0 +1,15 @@
+<div class="row">
+  <div class="col-md-8 col-lg-8 col-md-offset-3 col-lg-offset-3">
+    <a href="#/destination/{{destination.id}}" class="thumb">
+      <h1>{{destination.name | uppercase}}</h1>
+      <h1>{{destination.snippet}}</h1>
+      <img ng-src="img/{{destination.destination_path}}.jpg"  class="img-thumbnail" alt="{{destination.destination_path}}"/>
+      <h2>{{destination.descriptif[0].infos}}</h2>
+      <h2 class="overDest">Site officiel d'information touristique : <a href="{{destination.descriptif[0].lien_tourisme}}">{{destination.descriptif[0].lien_tourisme}}</a></h2>
+
+    </a>
+  </div>   
+  <br>
+</div> 
+<br>
+
