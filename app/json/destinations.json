@@ -1,0 +1,62 @@
+ [
+ {"id": "1",
+ "name": "HongKong",
+ "snippet": "Destination asiatique.",
+ "destination_path":"hongkongboat",
+ "descriptif": [ 
+      {
+          "infos": "Hong Kong (chinois : 香港 ; pinyin : Xiānggǎng ; Wade : Hsiang¹-kang³ ; cantonais Jyutping : Hoeng¹gong² ; cantonais Yale : Hēunggóng ; littéralement : « port aux parfums » ou « port parfumé »), officiellement Région administrative spéciale de Hong Kong de la République populaire de Chine, est la plus grande et la plus peuplée des deux régions administratives spéciales (RAS) de la République populaire de Chine (RPC), l'autre étant Macao. Elle compte environ sept millions d'habitants que l'on appelle Hongkongais.Hong Kong est située sur la rive orientale de la Rivière des Perles, sur la côte sud de la Chine et elle est baignée par la mer de Chine méridionale. Elle jouxte la province du Guangdong au nord. Hong Kong est la ville la plus riche de Chine ; son économie est une des plus libérales au monde. C'est un pôle financier et commercial d'envergure mondiale. Colonie britannique à partir du traité de Nankin (1842), rétrocédée à la Chine en 1997 soit 155 ans plus tard, Hong Kong demeure radicalement différente du reste de la République populaire de Chine. Une loi fondamentale particulière détermine son régime politique. Elle obéit au principe « un pays, deux systèmes », qui permet à Hong Kong de conserver son système légal, sa monnaie, son système politique, ses équipes sportives internationales et ses lois sur l'immigration. Selon les termes de la déclaration sino-britannique commune, la Chine a promis que Hong Kong garderait une relative autonomie jusqu'à au moins 2047, soit 50 ans après le transfert de la souveraineté.La ville compte 20 500 résidents britanniques (ils étaient 25 500 en 1996). La majorité est composée d'expatriés employés par des multinationales ou des entrepreneurs installés avec leur famille. Depuis la rétrocession, les rues ont gardé leur double nom, en anglais et en cantonais." , 
+          "lien_tourisme":"http://www.discoverhongkong.com/fr/"
+      }
+   ] },
+ {"id": "2",
+ "name": "italie",
+ "snippet": "Pizza pepperoni tour de Pise.",
+ "destination_path":"italie",
+ "descriptif": [ 
+      {
+          "infos": "Le tourisme en Italie est une activité importante de l'économie du pays. Il représente un haut revenu pour l'économie italienne ce qui lui permet de développer certains secteurs de l'économie comme les transports, les infrastructures, le commerce, les services et l'artisanat.L'Italie est le quatrième pays touristique d'Europe derrière la France, l'Espagne et le Royaume-Uni et le cinquième mondial derrière la France, les États-Unis, l'Espagne et le Royaume-Uni. En 2008, plus de 42 millions de touristes s'y sont rendus.Le pays attire par ses paysages variés, sa culture, son histoire, son climat et son patrimoine." , 
+          "lien_tourisme":"www.italia.it/fr/home.html"
+      }
+   ]},
+ {"id": "3",
+ "name": "Bahamas",
+ "snippet": "Soleil, plage, bronzage.",
+ "destination_path":"nassau",
+ "descriptif": [ 
+      {
+          "infos": "Les Bahamas, en forme longue le Commonwealth des Bahamas, en anglais The Bahamas et Commonwealth of The Bahamas, sont un pays anglophone, qui, bien que situé au nord de la mer des Caraïbes, est traditionnellement considéré comme faisant partie des Caraïbes. Les Bahamas occupent environ 700 îles et îlots des îles Lucayes situées dans l'océan Atlantique, à l'est de la Floride, au nord de Cuba et du reste des Caraïbes et au nord-ouest des îles Turques-et-Caïques sous dépendance britannique. Sa capitale est Nassau, située sur l'île de New Providence." , 
+          "lien_tourisme":"http://www.bahamas.fr/les-bahamas"
+      }
+   ]},
+ {"id": "4",
+ "name": "espagne",
+ "snippet": "corrida, fiesta,sangria",
+ "destination_path":"espagne",
+ "descriptif": [ 
+      {
+          "infos": "Le tourisme en Espagne inclut les deux plus grandes villes que sont Madrid et Barcelone, mais aussi beaucoup d'autres endroits intéressants comme Saint-Jacques-de-Compostelle, La Corogne, Vigo, Cordoue, Séville, Grenade, Malaga, Cadix, Almería, Salamanque, Léon, Ségovie, Valence, Bilbao,Saint-Sébastien, Murcie, Alicante, Oviedo, Gijón et Tolède. D'autres endroits sont visités pour leurs plages comme Rías Baixas, Salou, Benidorm, Majorque, Ibiza, îles Canaries, Communauté valencienne, Catalogne et le Golfe de Gascogne au nord de l'Espagne.Plusieurs parcs d'attractions jalonnent l'Espagne. Le plus connu, PortAventura, figure parmi les premiers parcs européens. Plus anonymes sur le plan international, Parque Warner Madrid, Terra Mítica et Isla Mágica ne bénéficient qu'indirectement du tourisme. Leur réputation est, avant tout, régionale et péninsulaire. Enfin, d'autres parcs tels que Parque de Atracciones de Madrid ou Parque de atracciones de Zaragoza relèvent d'une fréquentation locale d'essence urbaine.Le pays compte également une multitudes de parcs aquatiques (Siam Park, Aqualand, Aquópolis...) et divers parcs zoologiques. À Albinyana, Aqualeón combine ces deux types d'activité." , 
+          "lien_tourisme":"www.spain.info/fr_FR/"
+      }
+   ]},
+ {"id": "5",
+ "name": "bali",
+ "snippet": "nature, découverte",
+ "destination_path":"bali2",
+ "descriptif": [ 
+      {
+          "infos": "Bali est une île d'Indonésie située entre les îles de Java et de Lombok. Elle fait partie des petites îles de la Sonde. Sa superficie est de 5 637 km2. La population de l'ensemble des îles de la province de Bali était de 3 890 000 habitants en 2010, soit une densité de 690 habitants/km2. Administrativement, l'île fait partie de la province du même nom et accueille sa capitale (ibu kota), Denpasar, dans le sud de l'île." , 
+          "lien_tourisme":"http://www.tourisme-indonesie.fr/content/destinations-principales-l-ile-de-bali"
+      }
+   ]},
+ {"id": "6",
+ "name": "thailande",
+ "snippet": "ruines ancestrales, plages",
+ "destination_path":"thailande",
+ "descriptif": [ 
+      {
+          "infos": "Chaque année la Thaïlande attire entre 15 et 16 millions de touristes, dont un nombre croissant en provenance de pays voisins comme la Chine, l'Inde ou l'Indonésie1. En 2011 le royaume a battu un nouveau record d'affluence avec près de 20 millions de visiteurs et une augmentation de 30 % de ses recettes touristiques2. Le pays offre une grande variété de sites touristiques aussi bien historiques que naturels.La première destination touristique de Thaïlande est la station balnéaire de Pattaya, située à 147 km au sud-est de Bangkok." , 
+          "lien_tourisme":"www.thailande-tourisme.com/"
+      }
+   ]}
+ ]
