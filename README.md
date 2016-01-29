@@ -16,8 +16,8 @@ $ bower install
 ```
 
 ```sh
-lanch index.html in the  app folder
+launch index.html in the  app folder
 ```
 
->NB: to acces to all the functionalities run the app with a local server 
+>NB: to access to all the functionalities, run the app with a local server 
 >enjoy it ++
