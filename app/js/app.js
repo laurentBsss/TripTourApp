@@ -4,9 +4,13 @@ var app = angular.module("tripTourApp", ['ngRoute']);
 app.config(['$routeProvider',
   function($routeProvider) {
     $routeProvider.
-      when('/destination', {
+      when('/home', {
         templateUrl: 'partials/destination-list.html', 
         controller: 'DestinationListCtrl'  
+      }).
+      when('/destination', {
+        templateUrl: 'partials/destination-pays-list.html', 
+        controller: 'DestinationPaysListCtrl'  
       }).
       when('/destination/:id', {
         templateUrl: 'partials/destination-detail.html',
