@@ -25,6 +25,6 @@ app.config(['$routeProvider',
         controller: 'SearchCtrl'
       }).
       otherwise({
-        redirectTo: '/destination'
+        redirectTo: '/home'
       });
   }]);
