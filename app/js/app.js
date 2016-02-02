@@ -1,4 +1,4 @@
-var app = angular.module("tripTourApp", ['ngRoute']);
+var app = angular.module("tripTourApp", ['ngRoute','720kb.socialshare']);
 
 
 app.config(['$routeProvider',
