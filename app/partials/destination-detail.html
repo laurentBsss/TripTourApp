@@ -5,12 +5,44 @@
       <h1>{{destination.snippet}}</h1>
       <img ng-src="img/{{destination.destination_path}}.jpg"  class="img-thumbnail" alt="{{destination.destination_path}}"/>
       <h2>{{destination.descriptif[0].infos}}</h2>
-      <h2 class="overDest">Site officiel d'information touristique : <a href="{{destination.descriptif[0].lien_tourisme}}">{{destination.descriptif[0].lien_tourisme}}</a></h2>
+      <h2 class="overDest">Site officiel d'information touristique : <a href="{{destination.descriptif[0].lien_tourisme}}" class="text-warning">{{destination.descriptif[0].lien_tourisme}}</a></h2>
 
     </a>
+
+    <br>
+
+    <div class="row">
+        <hr>
+      <div class="col-md-12"><h3 class="text-success">Partagez cet article sur:</h3><br></div>
+      <div class="col-md-4">
+        <button class="btn btn-medium social" socialshare="" socialshare-provider="facebook" socialshare-url="{{ $location.absUrl() }}">
+             <i class="fa fa-facebook"></i> Facebook
+           </button>  
+      </div>
+      <div class="col-md-4">
+        <button class="btn btn-medium social" socialshare="" socialshare-provider="twitter" socialshare-url="{{ $location.absUrl() }}">
+             <i class="fa fa-twitter"></i> Twitter
+           </button>  
+      </div>
+      <div class="col-md-4">
+        <button class="btn btn-medium social" socialshare="" socialshare-provider="linkedin" socialshare-url="{{ $location.absUrl() }}">
+             <i class="fa fa-linkedin"></i> linkedin
+           </button>  
+      </div>
+
+    </div>
+
+
+
    
   </div>   
   <br>
 </div> 
 <br>
 
+
+
+
+
+             <
+           

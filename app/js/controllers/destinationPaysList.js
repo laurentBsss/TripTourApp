@@ -1,6 +1,3 @@
-var app = angular.module("tripTourApp");
-
-
 app.controller('DestinationPaysListCtrl',function($scope,$http ) {
 	
 

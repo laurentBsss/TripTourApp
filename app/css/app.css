@@ -9,3 +9,13 @@ ul{
 .overDest{
 	overflow: hidden;
 }
+
+.social {
+    border-style: solid;
+    border-color: #435F24;
+    margin-bottom: 10px;
+}
+
+.social:hover{
+	background-color: #219069;
+}

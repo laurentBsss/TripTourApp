@@ -24,5 +24,8 @@
   "devDependencies": {
     "angular": "~1.4.9",
     "angular-route": "~1.4.9"
+  },
+  "dependencies": {
+    "angular-socialshare": "angularjs-socialshare#^0.1.20"
   }
 }
